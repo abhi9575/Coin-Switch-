@@ -49,3 +49,41 @@ button{
     padding: 16px 10px;
 }
 
+
+.hd10{
+    display: flex;
+ }
+ .hd11{
+     width: 35%;
+     margin-left: 170px;
+ 
+  }
+  .hd100{
+     display: flex;
+     flex-direction: column;
+     width: 32%;
+     margin-left: 8%;
+  }
+ 
+  .hd101{
+     height: 30%;
+     text-align: center;
+     font-weight: 600 ;
+     padding-bottom: 30px;
+     font-size: 19px;
+     padding-top: 30%;
+     line-height: 26px;
+     color: #555e84;
+  } 
+ 
+  .hd102{
+     color: #4e5569;
+     text-align: center;
+     font-weight: 500 ;
+     font-size: 14px;
+     height: 70%;
+     line-height: 26px;
+ 
+  }
+  
+ 
